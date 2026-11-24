@@ -1,5 +1,5 @@
 /* Marginalia service worker: versioned, cache-first, precaches every file so the book reads offline. */
-const VERSION = 'marginalia-v2.0.0';
+const VERSION = 'marginalia-v2.0.1';
 const FILES = [
   './',
   './index.html',
