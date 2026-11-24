@@ -1,0 +1,6 @@
+# private material never belongs in this folder
+*.json
+*.md
+!README.md
+node_modules/
+.DS_Store
